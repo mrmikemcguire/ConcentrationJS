@@ -6,7 +6,7 @@ div#board
 	width:800px;
 	height:540px;
 	padding:24px;
-	margin:0px auto;
+	margin:0 auto;
     }
     
 div#board > div

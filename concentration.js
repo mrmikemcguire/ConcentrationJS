@@ -13,7 +13,7 @@ Array.prototype.shuffle = function()    //This function shuffles the cards
         this[j] = this[i];
         this[i] = temp;
         }
-    }
+    };
 
 function createNewBoard()
     {
